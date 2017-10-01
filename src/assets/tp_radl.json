@@ -1,0 +1,1774 @@
+{
+    "WA": {
+        "tpAccRat": 351.75, 
+        "Year": 2016, 
+        "State": "WA", 
+        "Accounts": 4, 
+        "Touchpoints": 1407, 
+        "RADLS": [
+            {
+                "tpAccRat": 351.75, 
+                "RADL": "O", 
+                "Accounts": 4, 
+                "Touchpoints": 1407, 
+                "Year": 2016
+            }
+        ]
+    }, 
+    "DE": {
+        "tpAccRat": 60.142857142857146, 
+        "Year": 2016, 
+        "State": "DE", 
+        "Accounts": 14, 
+        "Touchpoints": 842, 
+        "RADLS": [
+            {
+                "tpAccRat": 5.5, 
+                "RADL": "A", 
+                "Accounts": 2, 
+                "Touchpoints": 11, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 102.42857142857143, 
+                "RADL": "D", 
+                "Accounts": 7, 
+                "Touchpoints": 717, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 34.333333333333336, 
+                "RADL": "O", 
+                "Accounts": 3, 
+                "Touchpoints": 103, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 5.5, 
+                "RADL": "L", 
+                "Accounts": 2, 
+                "Touchpoints": 11, 
+                "Year": 2016
+            }
+        ]
+    }, 
+    "WI": {
+        "tpAccRat": 37.644329896907216, 
+        "Year": 2016, 
+        "State": "WI", 
+        "Accounts": 194, 
+        "Touchpoints": 7303, 
+        "RADLS": [
+            {
+                "tpAccRat": 21.170731707317074, 
+                "RADL": "A", 
+                "Accounts": 41, 
+                "Touchpoints": 868, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 41.46666666666667, 
+                "RADL": "R", 
+                "Accounts": 15, 
+                "Touchpoints": 622, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 21.38095238095238, 
+                "RADL": "D", 
+                "Accounts": 21, 
+                "Touchpoints": 449, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 95.95121951219512, 
+                "RADL": "O", 
+                "Accounts": 41, 
+                "Touchpoints": 3934, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 18.81578947368421, 
+                "RADL": "L", 
+                "Accounts": 76, 
+                "Touchpoints": 1430, 
+                "Year": 2016
+            }
+        ]
+    }, 
+    "WV": {
+        "tpAccRat": 20.0, 
+        "Year": 2016, 
+        "State": "WV", 
+        "Accounts": 1, 
+        "Touchpoints": 20, 
+        "RADLS": [
+            {
+                "tpAccRat": 20.0, 
+                "RADL": "L", 
+                "Accounts": 1, 
+                "Touchpoints": 20, 
+                "Year": 2016
+            }
+        ]
+    }, 
+    "FL": {
+        "tpAccRat": 92.16666666666667, 
+        "Year": 2016, 
+        "State": "FL", 
+        "Accounts": 6, 
+        "Touchpoints": 553, 
+        "RADLS": [
+            {
+                "tpAccRat": 92.16666666666667, 
+                "RADL": "O", 
+                "Accounts": 6, 
+                "Touchpoints": 553, 
+                "Year": 2016
+            }
+        ]
+    }, 
+    "WY": {
+        "tpAccRat": 31.933333333333334, 
+        "Year": 2016, 
+        "State": "WY", 
+        "Accounts": 15, 
+        "Touchpoints": 479, 
+        "RADLS": [
+            {
+                "tpAccRat": 53.8, 
+                "RADL": "A", 
+                "Accounts": 5, 
+                "Touchpoints": 269, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 3.0, 
+                "RADL": "R", 
+                "Accounts": 1, 
+                "Touchpoints": 3, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 48.0, 
+                "RADL": "D", 
+                "Accounts": 2, 
+                "Touchpoints": 96, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 25.666666666666668, 
+                "RADL": "O", 
+                "Accounts": 3, 
+                "Touchpoints": 77, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 8.5, 
+                "RADL": "L", 
+                "Accounts": 4, 
+                "Touchpoints": 34, 
+                "Year": 2016
+            }
+        ]
+    }, 
+    "NH": {
+        "tpAccRat": 7.5, 
+        "Year": 2016, 
+        "State": "NH", 
+        "Accounts": 2, 
+        "Touchpoints": 15, 
+        "RADLS": [
+            {
+                "tpAccRat": 9.0, 
+                "RADL": "A", 
+                "Accounts": 1, 
+                "Touchpoints": 9, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 6.0, 
+                "RADL": "L", 
+                "Accounts": 1, 
+                "Touchpoints": 6, 
+                "Year": 2016
+            }
+        ]
+    }, 
+    "NJ": {
+        "tpAccRat": 22.727272727272727, 
+        "Year": 2016, 
+        "State": "NJ", 
+        "Accounts": 11, 
+        "Touchpoints": 250, 
+        "RADLS": [
+            {
+                "tpAccRat": 13.0, 
+                "RADL": "A", 
+                "Accounts": 2, 
+                "Touchpoints": 26, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 8.0, 
+                "RADL": "R", 
+                "Accounts": 2, 
+                "Touchpoints": 16, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 22.5, 
+                "RADL": "D", 
+                "Accounts": 2, 
+                "Touchpoints": 45, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 60.5, 
+                "RADL": "O", 
+                "Accounts": 2, 
+                "Touchpoints": 121, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 14.0, 
+                "RADL": "L", 
+                "Accounts": 3, 
+                "Touchpoints": 42, 
+                "Year": 2016
+            }
+        ]
+    }, 
+    "NM": {
+        "tpAccRat": 77.5, 
+        "Year": 2016, 
+        "State": "NM", 
+        "Accounts": 8, 
+        "Touchpoints": 620, 
+        "RADLS": [
+            {
+                "tpAccRat": 7.0, 
+                "RADL": "A", 
+                "Accounts": 1, 
+                "Touchpoints": 7, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 172.33333333333334, 
+                "RADL": "D", 
+                "Accounts": 3, 
+                "Touchpoints": 517, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 15.333333333333334, 
+                "RADL": "O", 
+                "Accounts": 3, 
+                "Touchpoints": 46, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 50.0, 
+                "RADL": "L", 
+                "Accounts": 1, 
+                "Touchpoints": 50, 
+                "Year": 2016
+            }
+        ]
+    }, 
+    "TX": {
+        "tpAccRat": 28.264705882352942, 
+        "Year": 2016, 
+        "State": "TX", 
+        "Accounts": 136, 
+        "Touchpoints": 3844, 
+        "RADLS": [
+            {
+                "tpAccRat": 29.266666666666666, 
+                "RADL": "A", 
+                "Accounts": 60, 
+                "Touchpoints": 1756, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 26.147058823529413, 
+                "RADL": "D", 
+                "Accounts": 34, 
+                "Touchpoints": 889, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 31.272727272727273, 
+                "RADL": "L", 
+                "Accounts": 11, 
+                "Touchpoints": 344, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 28.074074074074073, 
+                "RADL": "O", 
+                "Accounts": 27, 
+                "Touchpoints": 758, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 24.333333333333332, 
+                "RADL": "R", 
+                "Accounts": 3, 
+                "Touchpoints": 73, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 24.0, 
+                "RADL": "U", 
+                "Accounts": 1, 
+                "Touchpoints": 24, 
+                "Year": 2016
+            }
+        ]
+    }, 
+    "LA": {
+        "tpAccRat": 10.428571428571429, 
+        "Year": 2016, 
+        "State": "LA", 
+        "Accounts": 21, 
+        "Touchpoints": 219, 
+        "RADLS": [
+            {
+                "tpAccRat": 13.333333333333334, 
+                "RADL": "A", 
+                "Accounts": 3, 
+                "Touchpoints": 40, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 4.8, 
+                "RADL": "D", 
+                "Accounts": 10, 
+                "Touchpoints": 48, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 10.0, 
+                "RADL": "L", 
+                "Accounts": 1, 
+                "Touchpoints": 10, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 15.2, 
+                "RADL": "O", 
+                "Accounts": 5, 
+                "Touchpoints": 76, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 5.0, 
+                "RADL": "R", 
+                "Accounts": 1, 
+                "Touchpoints": 5, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 40.0, 
+                "RADL": "U", 
+                "Accounts": 1, 
+                "Touchpoints": 40, 
+                "Year": 2016
+            }
+        ]
+    }, 
+    "NC": {
+        "tpAccRat": 56.191489361702125, 
+        "Year": 2016, 
+        "State": "NC", 
+        "Accounts": 47, 
+        "Touchpoints": 2641, 
+        "RADLS": [
+            {
+                "tpAccRat": 9.6, 
+                "RADL": "A", 
+                "Accounts": 5, 
+                "Touchpoints": 48, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 4.5, 
+                "RADL": "R", 
+                "Accounts": 2, 
+                "Touchpoints": 9, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 9.333333333333334, 
+                "RADL": "D", 
+                "Accounts": 6, 
+                "Touchpoints": 56, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 85.70370370370371, 
+                "RADL": "O", 
+                "Accounts": 27, 
+                "Touchpoints": 2314, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 30.571428571428573, 
+                "RADL": "L", 
+                "Accounts": 7, 
+                "Touchpoints": 214, 
+                "Year": 2016
+            }
+        ]
+    }, 
+    "ND": {
+        "tpAccRat": 33.86486486486486, 
+        "Year": 2016, 
+        "State": "ND", 
+        "Accounts": 111, 
+        "Touchpoints": 3759, 
+        "RADLS": [
+            {
+                "tpAccRat": 23.2, 
+                "RADL": "A", 
+                "Accounts": 30, 
+                "Touchpoints": 696, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 32.833333333333336, 
+                "RADL": "R", 
+                "Accounts": 6, 
+                "Touchpoints": 197, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 18.533333333333335, 
+                "RADL": "D", 
+                "Accounts": 45, 
+                "Touchpoints": 834, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 84.54545454545455, 
+                "RADL": "O", 
+                "Accounts": 22, 
+                "Touchpoints": 1860, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 21.5, 
+                "RADL": "L", 
+                "Accounts": 8, 
+                "Touchpoints": 172, 
+                "Year": 2016
+            }
+        ]
+    }, 
+    "NE": {
+        "tpAccRat": 37.76374156219865, 
+        "Year": 2016, 
+        "State": "NE", 
+        "Accounts": 1037, 
+        "Touchpoints": 39161, 
+        "RADLS": [
+            {
+                "tpAccRat": 40.56206088992974, 
+                "RADL": "A", 
+                "Accounts": 427, 
+                "Touchpoints": 17320, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 36.68669527896996, 
+                "RADL": "D", 
+                "Accounts": 233, 
+                "Touchpoints": 8548, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 22.678217821782177, 
+                "RADL": "L", 
+                "Accounts": 202, 
+                "Touchpoints": 4581, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 64.59210526315789, 
+                "RADL": "O", 
+                "Accounts": 76, 
+                "Touchpoints": 4909, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 34.589473684210525, 
+                "RADL": "R", 
+                "Accounts": 95, 
+                "Touchpoints": 3286, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 129.25, 
+                "RADL": "U", 
+                "Accounts": 4, 
+                "Touchpoints": 517, 
+                "Year": 2016
+            }
+        ]
+    }, 
+    "TN": {
+        "tpAccRat": 29.3, 
+        "Year": 2016, 
+        "State": "TN", 
+        "Accounts": 20, 
+        "Touchpoints": 586, 
+        "RADLS": [
+            {
+                "tpAccRat": 13.5, 
+                "RADL": "A", 
+                "Accounts": 2, 
+                "Touchpoints": 27, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 6.0, 
+                "RADL": "R", 
+                "Accounts": 1, 
+                "Touchpoints": 6, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 7.0, 
+                "RADL": "D", 
+                "Accounts": 6, 
+                "Touchpoints": 42, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 52.666666666666664, 
+                "RADL": "O", 
+                "Accounts": 9, 
+                "Touchpoints": 474, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 18.5, 
+                "RADL": "L", 
+                "Accounts": 2, 
+                "Touchpoints": 37, 
+                "Year": 2016
+            }
+        ]
+    }, 
+    "NY": {
+        "tpAccRat": 25.09090909090909, 
+        "Year": 2016, 
+        "State": "NY", 
+        "Accounts": 121, 
+        "Touchpoints": 3036, 
+        "RADLS": [
+            {
+                "tpAccRat": 12.866666666666667, 
+                "RADL": "A", 
+                "Accounts": 15, 
+                "Touchpoints": 193, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 43.22222222222222, 
+                "RADL": "R", 
+                "Accounts": 9, 
+                "Touchpoints": 389, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 23.1, 
+                "RADL": "D", 
+                "Accounts": 10, 
+                "Touchpoints": 231, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 35.875, 
+                "RADL": "O", 
+                "Accounts": 32, 
+                "Touchpoints": 1148, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 19.545454545454547, 
+                "RADL": "L", 
+                "Accounts": 55, 
+                "Touchpoints": 1075, 
+                "Year": 2016
+            }
+        ]
+    }, 
+    "PA": {
+        "tpAccRat": 18.956521739130434, 
+        "Year": 2016, 
+        "State": "PA", 
+        "Accounts": 253, 
+        "Touchpoints": 4796, 
+        "RADLS": [
+            {
+                "tpAccRat": 28.08, 
+                "RADL": "A", 
+                "Accounts": 25, 
+                "Touchpoints": 702, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 40.111111111111114, 
+                "RADL": "R", 
+                "Accounts": 9, 
+                "Touchpoints": 361, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 48.285714285714285, 
+                "RADL": "D", 
+                "Accounts": 7, 
+                "Touchpoints": 338, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 14.884615384615385, 
+                "RADL": "O", 
+                "Accounts": 104, 
+                "Touchpoints": 1548, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 17.10185185185185, 
+                "RADL": "L", 
+                "Accounts": 108, 
+                "Touchpoints": 1847, 
+                "Year": 2016
+            }
+        ]
+    }, 
+    "VA": {
+        "tpAccRat": 47.016949152542374, 
+        "Year": 2016, 
+        "State": "VA", 
+        "Accounts": 59, 
+        "Touchpoints": 2774, 
+        "RADLS": [
+            {
+                "tpAccRat": 107.0, 
+                "RADL": "A", 
+                "Accounts": 13, 
+                "Touchpoints": 1391, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 130.0, 
+                "RADL": "R", 
+                "Accounts": 2, 
+                "Touchpoints": 260, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 13.333333333333334, 
+                "RADL": "D", 
+                "Accounts": 9, 
+                "Touchpoints": 120, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 42.61904761904762, 
+                "RADL": "O", 
+                "Accounts": 21, 
+                "Touchpoints": 895, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 7.714285714285714, 
+                "RADL": "L", 
+                "Accounts": 14, 
+                "Touchpoints": 108, 
+                "Year": 2016
+            }
+        ]
+    }, 
+    "CO": {
+        "tpAccRat": 168.09375, 
+        "Year": 2016, 
+        "State": "CO", 
+        "Accounts": 128, 
+        "Touchpoints": 21516, 
+        "RADLS": [
+            {
+                "tpAccRat": 41.2, 
+                "RADL": "A", 
+                "Accounts": 55, 
+                "Touchpoints": 2266, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 71.0, 
+                "RADL": "R", 
+                "Accounts": 8, 
+                "Touchpoints": 568, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 51.27272727272727, 
+                "RADL": "D", 
+                "Accounts": 22, 
+                "Touchpoints": 1128, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 1102.5333333333333, 
+                "RADL": "O", 
+                "Accounts": 15, 
+                "Touchpoints": 16538, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 36.285714285714285, 
+                "RADL": "L", 
+                "Accounts": 28, 
+                "Touchpoints": 1016, 
+                "Year": 2016
+            }
+        ]
+    }, 
+    "CA": {
+        "tpAccRat": 8.0, 
+        "Year": 2016, 
+        "State": "CA", 
+        "Accounts": 1, 
+        "Touchpoints": 8, 
+        "RADLS": [
+            {
+                "tpAccRat": 8.0, 
+                "RADL": "O", 
+                "Accounts": 1, 
+                "Touchpoints": 8, 
+                "Year": 2016
+            }
+        ]
+    }, 
+    "AL": {
+        "tpAccRat": 40.214285714285715, 
+        "Year": 2016, 
+        "State": "AL", 
+        "Accounts": 14, 
+        "Touchpoints": 563, 
+        "RADLS": [
+            {
+                "tpAccRat": 8.333333333333334, 
+                "RADL": "D", 
+                "Accounts": 3, 
+                "Touchpoints": 25, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 52.8, 
+                "RADL": "O", 
+                "Accounts": 10, 
+                "Touchpoints": 528, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 10.0, 
+                "RADL": "L", 
+                "Accounts": 1, 
+                "Touchpoints": 10, 
+                "Year": 2016
+            }
+        ]
+    }, 
+    "null": {
+        "tpAccRat": 40.617752452564176, 
+        "Year": 2016, 
+        "State": null, 
+        "Accounts": 17023, 
+        "Touchpoints": 691436, 
+        "RADLS": [
+            {
+                "tpAccRat": 40.617752452564176, 
+                "RADL": null, 
+                "Accounts": 17023, 
+                "Touchpoints": 691436, 
+                "Year": 2016
+            }
+        ]
+    }, 
+    "AR": {
+        "tpAccRat": 14.11111111111111, 
+        "Year": 2016, 
+        "State": "AR", 
+        "Accounts": 27, 
+        "Touchpoints": 381, 
+        "RADLS": [
+            {
+                "tpAccRat": 8.0, 
+                "RADL": "A", 
+                "Accounts": 3, 
+                "Touchpoints": 24, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 6.666666666666667, 
+                "RADL": "D", 
+                "Accounts": 9, 
+                "Touchpoints": 60, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 20.454545454545453, 
+                "RADL": "O", 
+                "Accounts": 11, 
+                "Touchpoints": 225, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 18.0, 
+                "RADL": "L", 
+                "Accounts": 4, 
+                "Touchpoints": 72, 
+                "Year": 2016
+            }
+        ]
+    }, 
+    "VT": {
+        "tpAccRat": 13.5, 
+        "Year": 2016, 
+        "State": "VT", 
+        "Accounts": 4, 
+        "Touchpoints": 54, 
+        "RADLS": [
+            {
+                "tpAccRat": 21.0, 
+                "RADL": "A", 
+                "Accounts": 1, 
+                "Touchpoints": 21, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 15.0, 
+                "RADL": "L", 
+                "Accounts": 2, 
+                "Touchpoints": 30, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 3.0, 
+                "RADL": "O", 
+                "Accounts": 1, 
+                "Touchpoints": 3, 
+                "Year": 2016
+            }
+        ]
+    }, 
+    "IL": {
+        "tpAccRat": 33.515075376884425, 
+        "Year": 2016, 
+        "State": "IL", 
+        "Accounts": 796, 
+        "Touchpoints": 26678, 
+        "RADLS": [
+            {
+                "tpAccRat": 24.586872586872587, 
+                "RADL": "A", 
+                "Accounts": 259, 
+                "Touchpoints": 6368, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 27.645021645021647, 
+                "RADL": "D", 
+                "Accounts": 231, 
+                "Touchpoints": 6386, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 29.154411764705884, 
+                "RADL": "L", 
+                "Accounts": 136, 
+                "Touchpoints": 3965, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 59.40243902439025, 
+                "RADL": "O", 
+                "Accounts": 82, 
+                "Touchpoints": 4871, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 58.44186046511628, 
+                "RADL": "R", 
+                "Accounts": 86, 
+                "Touchpoints": 5026, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 31.0, 
+                "RADL": "U", 
+                "Accounts": 2, 
+                "Touchpoints": 62, 
+                "Year": 2016
+            }
+        ]
+    }, 
+    "GA": {
+        "tpAccRat": 88.0, 
+        "Year": 2016, 
+        "State": "GA", 
+        "Accounts": 25, 
+        "Touchpoints": 2200, 
+        "RADLS": [
+            {
+                "tpAccRat": 12.5, 
+                "RADL": "A", 
+                "Accounts": 2, 
+                "Touchpoints": 25, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 7.5, 
+                "RADL": "R", 
+                "Accounts": 2, 
+                "Touchpoints": 15, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 36.333333333333336, 
+                "RADL": "D", 
+                "Accounts": 3, 
+                "Touchpoints": 109, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 153.3846153846154, 
+                "RADL": "O", 
+                "Accounts": 13, 
+                "Touchpoints": 1994, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 11.4, 
+                "RADL": "L", 
+                "Accounts": 5, 
+                "Touchpoints": 57, 
+                "Year": 2016
+            }
+        ]
+    }, 
+    "IN": {
+        "tpAccRat": 40.33534136546185, 
+        "Year": 2016, 
+        "State": "IN", 
+        "Accounts": 498, 
+        "Touchpoints": 20087, 
+        "RADLS": [
+            {
+                "tpAccRat": 34.68681318681319, 
+                "RADL": "A", 
+                "Accounts": 182, 
+                "Touchpoints": 6313, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 38.61538461538461, 
+                "RADL": "D", 
+                "Accounts": 104, 
+                "Touchpoints": 4016, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 18.991150442477878, 
+                "RADL": "L", 
+                "Accounts": 113, 
+                "Touchpoints": 2146, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 88.66037735849056, 
+                "RADL": "O", 
+                "Accounts": 53, 
+                "Touchpoints": 4699, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 57.53488372093023, 
+                "RADL": "R", 
+                "Accounts": 43, 
+                "Touchpoints": 2474, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 146.33333333333334, 
+                "RADL": "U", 
+                "Accounts": 3, 
+                "Touchpoints": 439, 
+                "Year": 2016
+            }
+        ]
+    }, 
+    "IA": {
+        "tpAccRat": 23.890227576974564, 
+        "Year": 2016, 
+        "State": "IA", 
+        "Accounts": 1494, 
+        "Touchpoints": 35692, 
+        "RADLS": [
+            {
+                "tpAccRat": 15.296969696969697, 
+                "RADL": "A", 
+                "Accounts": 330, 
+                "Touchpoints": 5048, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 24.5136476426799, 
+                "RADL": "D", 
+                "Accounts": 403, 
+                "Touchpoints": 9879, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 16.182065217391305, 
+                "RADL": "L", 
+                "Accounts": 368, 
+                "Touchpoints": 5955, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 47.07913669064748, 
+                "RADL": "O", 
+                "Accounts": 139, 
+                "Touchpoints": 6544, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 32.32411067193676, 
+                "RADL": "R", 
+                "Accounts": 253, 
+                "Touchpoints": 8178, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 88.0, 
+                "RADL": "U", 
+                "Accounts": 1, 
+                "Touchpoints": 88, 
+                "Year": 2016
+            }
+        ]
+    }, 
+    "MA": {
+        "tpAccRat": 16.0, 
+        "Year": 2016, 
+        "State": "MA", 
+        "Accounts": 10, 
+        "Touchpoints": 160, 
+        "RADLS": [
+            {
+                "tpAccRat": 7.5, 
+                "RADL": "A", 
+                "Accounts": 2, 
+                "Touchpoints": 15, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 20.285714285714285, 
+                "RADL": "L", 
+                "Accounts": 7, 
+                "Touchpoints": 142, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 3.0, 
+                "RADL": "O", 
+                "Accounts": 1, 
+                "Touchpoints": 3, 
+                "Year": 2016
+            }
+        ]
+    }, 
+    "AZ": {
+        "tpAccRat": 35.25, 
+        "Year": 2016, 
+        "State": "AZ", 
+        "Accounts": 4, 
+        "Touchpoints": 141, 
+        "RADLS": [
+            {
+                "tpAccRat": 65.0, 
+                "RADL": "A", 
+                "Accounts": 2, 
+                "Touchpoints": 130, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 5.0, 
+                "RADL": "D", 
+                "Accounts": 1, 
+                "Touchpoints": 5, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 6.0, 
+                "RADL": "O", 
+                "Accounts": 1, 
+                "Touchpoints": 6, 
+                "Year": 2016
+            }
+        ]
+    }, 
+    "ID": {
+        "tpAccRat": 485.75, 
+        "Year": 2016, 
+        "State": "ID", 
+        "Accounts": 4, 
+        "Touchpoints": 1943, 
+        "RADLS": [
+            {
+                "tpAccRat": 5.0, 
+                "RADL": "L", 
+                "Accounts": 1, 
+                "Touchpoints": 5, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 646.0, 
+                "RADL": "O", 
+                "Accounts": 3, 
+                "Touchpoints": 1938, 
+                "Year": 2016
+            }
+        ]
+    }, 
+    "CT": {
+        "tpAccRat": 18.0, 
+        "Year": 2016, 
+        "State": "CT", 
+        "Accounts": 2, 
+        "Touchpoints": 36, 
+        "RADLS": [
+            {
+                "tpAccRat": 24.0, 
+                "RADL": "A", 
+                "Accounts": 1, 
+                "Touchpoints": 24, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 12.0, 
+                "RADL": "L", 
+                "Accounts": 1, 
+                "Touchpoints": 12, 
+                "Year": 2016
+            }
+        ]
+    }, 
+    "ME": {
+        "tpAccRat": 32.25, 
+        "Year": 2016, 
+        "State": "ME", 
+        "Accounts": 4, 
+        "Touchpoints": 129, 
+        "RADLS": [
+            {
+                "tpAccRat": 4.0, 
+                "RADL": "A", 
+                "Accounts": 1, 
+                "Touchpoints": 4, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 102.0, 
+                "RADL": "D", 
+                "Accounts": 1, 
+                "Touchpoints": 102, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 5.0, 
+                "RADL": "O", 
+                "Accounts": 1, 
+                "Touchpoints": 5, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 18.0, 
+                "RADL": "L", 
+                "Accounts": 1, 
+                "Touchpoints": 18, 
+                "Year": 2016
+            }
+        ]
+    }, 
+    "MD": {
+        "tpAccRat": 39.916666666666664, 
+        "Year": 2016, 
+        "State": "MD", 
+        "Accounts": 36, 
+        "Touchpoints": 1437, 
+        "RADLS": [
+            {
+                "tpAccRat": 35.714285714285715, 
+                "RADL": "A", 
+                "Accounts": 7, 
+                "Touchpoints": 250, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 41.333333333333336, 
+                "RADL": "R", 
+                "Accounts": 3, 
+                "Touchpoints": 124, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 68.83333333333333, 
+                "RADL": "D", 
+                "Accounts": 6, 
+                "Touchpoints": 413, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 48.0, 
+                "RADL": "O", 
+                "Accounts": 8, 
+                "Touchpoints": 384, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 22.166666666666668, 
+                "RADL": "L", 
+                "Accounts": 12, 
+                "Touchpoints": 266, 
+                "Year": 2016
+            }
+        ]
+    }, 
+    "OK": {
+        "tpAccRat": 30.8, 
+        "Year": 2016, 
+        "State": "OK", 
+        "Accounts": 35, 
+        "Touchpoints": 1078, 
+        "RADLS": [
+            {
+                "tpAccRat": 12.076923076923077, 
+                "RADL": "A", 
+                "Accounts": 13, 
+                "Touchpoints": 157, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 6.25, 
+                "RADL": "R", 
+                "Accounts": 4, 
+                "Touchpoints": 25, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 51.125, 
+                "RADL": "D", 
+                "Accounts": 8, 
+                "Touchpoints": 409, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 57.125, 
+                "RADL": "O", 
+                "Accounts": 8, 
+                "Touchpoints": 457, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 15.0, 
+                "RADL": "L", 
+                "Accounts": 2, 
+                "Touchpoints": 30, 
+                "Year": 2016
+            }
+        ]
+    }, 
+    "OH": {
+        "tpAccRat": 33.49333333333333, 
+        "Year": 2016, 
+        "State": "OH", 
+        "Accounts": 375, 
+        "Touchpoints": 12560, 
+        "RADLS": [
+            {
+                "tpAccRat": 24.632, 
+                "RADL": "A", 
+                "Accounts": 125, 
+                "Touchpoints": 3079, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 40.567567567567565, 
+                "RADL": "R", 
+                "Accounts": 37, 
+                "Touchpoints": 1501, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 28.677419354838708, 
+                "RADL": "D", 
+                "Accounts": 62, 
+                "Touchpoints": 1778, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 84.65957446808511, 
+                "RADL": "O", 
+                "Accounts": 47, 
+                "Touchpoints": 3979, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 21.375, 
+                "RADL": "L", 
+                "Accounts": 104, 
+                "Touchpoints": 2223, 
+                "Year": 2016
+            }
+        ]
+    }, 
+    "MO": {
+        "tpAccRat": 37.08355091383812, 
+        "Year": 2016, 
+        "State": "MO", 
+        "Accounts": 383, 
+        "Touchpoints": 14203, 
+        "RADLS": [
+            {
+                "tpAccRat": 27.401574803149607, 
+                "RADL": "A", 
+                "Accounts": 127, 
+                "Touchpoints": 3480, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 40.906666666666666, 
+                "RADL": "D", 
+                "Accounts": 75, 
+                "Touchpoints": 3068, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 15.151898734177216, 
+                "RADL": "L", 
+                "Accounts": 79, 
+                "Touchpoints": 1197, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 79.44444444444444, 
+                "RADL": "O", 
+                "Accounts": 63, 
+                "Touchpoints": 5005, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 38.44444444444444, 
+                "RADL": "R", 
+                "Accounts": 36, 
+                "Touchpoints": 1384, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 23.0, 
+                "RADL": "U", 
+                "Accounts": 3, 
+                "Touchpoints": 69, 
+                "Year": 2016
+            }
+        ]
+    }, 
+    "MN": {
+        "tpAccRat": 44.24390243902439, 
+        "Year": 2016, 
+        "State": "MN", 
+        "Accounts": 861, 
+        "Touchpoints": 38094, 
+        "RADLS": [
+            {
+                "tpAccRat": 29.079601990049753, 
+                "RADL": "A", 
+                "Accounts": 201, 
+                "Touchpoints": 5845, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 27.526315789473685, 
+                "RADL": "D", 
+                "Accounts": 209, 
+                "Touchpoints": 5753, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 21.734939759036145, 
+                "RADL": "L", 
+                "Accounts": 249, 
+                "Touchpoints": 5412, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 203.8, 
+                "RADL": "O", 
+                "Accounts": 80, 
+                "Touchpoints": 16304, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 38.958333333333336, 
+                "RADL": "R", 
+                "Accounts": 120, 
+                "Touchpoints": 4675, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 52.5, 
+                "RADL": "U", 
+                "Accounts": 2, 
+                "Touchpoints": 105, 
+                "Year": 2016
+            }
+        ]
+    }, 
+    "MI": {
+        "tpAccRat": 27.306122448979593, 
+        "Year": 2016, 
+        "State": "MI", 
+        "Accounts": 196, 
+        "Touchpoints": 5352, 
+        "RADLS": [
+            {
+                "tpAccRat": 30.102941176470587, 
+                "RADL": "A", 
+                "Accounts": 68, 
+                "Touchpoints": 2047, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 41.8125, 
+                "RADL": "R", 
+                "Accounts": 16, 
+                "Touchpoints": 669, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 17.703703703703702, 
+                "RADL": "D", 
+                "Accounts": 27, 
+                "Touchpoints": 478, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 33.142857142857146, 
+                "RADL": "O", 
+                "Accounts": 35, 
+                "Touchpoints": 1160, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 19.96, 
+                "RADL": "L", 
+                "Accounts": 50, 
+                "Touchpoints": 998, 
+                "Year": 2016
+            }
+        ]
+    }, 
+    "KS": {
+        "tpAccRat": 28.254569190600524, 
+        "Year": 2016, 
+        "State": "KS", 
+        "Accounts": 766, 
+        "Touchpoints": 21643, 
+        "RADLS": [
+            {
+                "tpAccRat": 22.002898550724638, 
+                "RADL": "A", 
+                "Accounts": 345, 
+                "Touchpoints": 7591, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 34.114285714285714, 
+                "RADL": "D", 
+                "Accounts": 175, 
+                "Touchpoints": 5970, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 18.33812949640288, 
+                "RADL": "L", 
+                "Accounts": 139, 
+                "Touchpoints": 2549, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 59.32394366197183, 
+                "RADL": "O", 
+                "Accounts": 71, 
+                "Touchpoints": 4212, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 37.142857142857146, 
+                "RADL": "R", 
+                "Accounts": 35, 
+                "Touchpoints": 1300, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 21.0, 
+                "RADL": "U", 
+                "Accounts": 1, 
+                "Touchpoints": 21, 
+                "Year": 2016
+            }
+        ]
+    }, 
+    "MT": {
+        "tpAccRat": 9.625, 
+        "Year": 2016, 
+        "State": "MT", 
+        "Accounts": 8, 
+        "Touchpoints": 77, 
+        "RADLS": [
+            {
+                "tpAccRat": 10.0, 
+                "RADL": "A", 
+                "Accounts": 2, 
+                "Touchpoints": 20, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 25.0, 
+                "RADL": "R", 
+                "Accounts": 1, 
+                "Touchpoints": 25, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 6.0, 
+                "RADL": "D", 
+                "Accounts": 1, 
+                "Touchpoints": 6, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 6.5, 
+                "RADL": "O", 
+                "Accounts": 2, 
+                "Touchpoints": 13, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 6.5, 
+                "RADL": "L", 
+                "Accounts": 2, 
+                "Touchpoints": 13, 
+                "Year": 2016
+            }
+        ]
+    }, 
+    "MS": {
+        "tpAccRat": 49.84615384615385, 
+        "Year": 2016, 
+        "State": "MS", 
+        "Accounts": 26, 
+        "Touchpoints": 1296, 
+        "RADLS": [
+            {
+                "tpAccRat": 6.0, 
+                "RADL": "A", 
+                "Accounts": 3, 
+                "Touchpoints": 18, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 6.0, 
+                "RADL": "D", 
+                "Accounts": 4, 
+                "Touchpoints": 24, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 20.0, 
+                "RADL": "L", 
+                "Accounts": 1, 
+                "Touchpoints": 20, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 75.64285714285714, 
+                "RADL": "O", 
+                "Accounts": 14, 
+                "Touchpoints": 1059, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 7.5, 
+                "RADL": "R", 
+                "Accounts": 2, 
+                "Touchpoints": 15, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 80.0, 
+                "RADL": "U", 
+                "Accounts": 2, 
+                "Touchpoints": 160, 
+                "Year": 2016
+            }
+        ]
+    }, 
+    "SC": {
+        "tpAccRat": 25.0, 
+        "Year": 2016, 
+        "State": "SC", 
+        "Accounts": 11, 
+        "Touchpoints": 275, 
+        "RADLS": [
+            {
+                "tpAccRat": 5.0, 
+                "RADL": "R", 
+                "Accounts": 1, 
+                "Touchpoints": 5, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 5.0, 
+                "RADL": "D", 
+                "Accounts": 1, 
+                "Touchpoints": 5, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 29.444444444444443, 
+                "RADL": "O", 
+                "Accounts": 9, 
+                "Touchpoints": 265, 
+                "Year": 2016
+            }
+        ]
+    }, 
+    "KY": {
+        "tpAccRat": 68.17575757575757, 
+        "Year": 2016, 
+        "State": "KY", 
+        "Accounts": 165, 
+        "Touchpoints": 11249, 
+        "RADLS": [
+            {
+                "tpAccRat": 68.10810810810811, 
+                "RADL": "A", 
+                "Accounts": 37, 
+                "Touchpoints": 2520, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 42.875, 
+                "RADL": "R", 
+                "Accounts": 8, 
+                "Touchpoints": 343, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 80.42, 
+                "RADL": "D", 
+                "Accounts": 50, 
+                "Touchpoints": 4021, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 37.291666666666664, 
+                "RADL": "O", 
+                "Accounts": 24, 
+                "Touchpoints": 895, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 75.43478260869566, 
+                "RADL": "L", 
+                "Accounts": 46, 
+                "Touchpoints": 3470, 
+                "Year": 2016
+            }
+        ]
+    }, 
+    "OR": {
+        "tpAccRat": 19.0, 
+        "Year": 2016, 
+        "State": "OR", 
+        "Accounts": 2, 
+        "Touchpoints": 38, 
+        "RADLS": [
+            {
+                "tpAccRat": 10.0, 
+                "RADL": "L", 
+                "Accounts": 1, 
+                "Touchpoints": 10, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 28.0, 
+                "RADL": "O", 
+                "Accounts": 1, 
+                "Touchpoints": 28, 
+                "Year": 2016
+            }
+        ]
+    }, 
+    "SD": {
+        "tpAccRat": 28.650969529085874, 
+        "Year": 2016, 
+        "State": "SD", 
+        "Accounts": 361, 
+        "Touchpoints": 10343, 
+        "RADLS": [
+            {
+                "tpAccRat": 31.789915966386555, 
+                "RADL": "A", 
+                "Accounts": 119, 
+                "Touchpoints": 3783, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 40.825, 
+                "RADL": "R", 
+                "Accounts": 40, 
+                "Touchpoints": 1633, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 26.224137931034484, 
+                "RADL": "D", 
+                "Accounts": 116, 
+                "Touchpoints": 3042, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 26.61764705882353, 
+                "RADL": "O", 
+                "Accounts": 34, 
+                "Touchpoints": 905, 
+                "Year": 2016
+            }, 
+            {
+                "tpAccRat": 18.846153846153847, 
+                "RADL": "L", 
+                "Accounts": 52, 
+                "Touchpoints": 980, 
+                "Year": 2016
+            }
+        ]
+    }
+}

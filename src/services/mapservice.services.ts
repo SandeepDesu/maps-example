@@ -13,6 +13,16 @@ export class MapService {
   getRegionsData(){
 		return this.http.get('assets/us-states-geojson.json')
                       .map((res:any) => res.json());
-	}
+  }
+  
+  getVisableData(){
+    return this.http.get('assets/tp_radl.json')
+    .map((res:any) => res.json());
+  }
+
+  getstateNames(){
+    return this.http.get('assets/us-state-names.json')
+    .map((res:any) => res.json());
+  }
 
 }
