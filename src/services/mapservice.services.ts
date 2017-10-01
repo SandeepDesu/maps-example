@@ -9,10 +9,19 @@ import 'rxjs/add/operator/catch';
 export class MapService {
 
   constructor(public http:  Http) { }
-
-  getRegionsData(){
-		return this.http.get('assets/us-states-geojson.json')
-                      .map((res:any) => res.json());
-	}
-
+  
+    getRegionsData(){
+      return this.http.get('assets/us-states-geojson.json')
+                        .map((res:any) => res.json());
+    }
+    
+    getVisableData(){
+      return this.http.get('assets/tp_radl.json')
+      .map((res:any) => res.json());
+    }
+  
+    getstateNames(){
+      return this.http.get('assets/us-state-names.json')
+      .map((res:any) => res.json());
+    }
 }
