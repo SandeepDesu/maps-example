@@ -15,6 +15,11 @@ export class MapService {
                         .map((res:any) => res.json());
     }
     
+    getCordinates(name){
+      return this.http.get('https://maps.googleapis.com/maps/api/geocode/json?address='+name+'&sensor=true_or_false&key=AIzaSyAfqPbeUkJ_c_luq2uavTgZyyEB8TKdU2s')
+      .map((res:any) => res.json());
+    }
+
     getVisableData(){
       return this.http.get('assets/tp_radl.json')
       .map((res:any) => res.json());

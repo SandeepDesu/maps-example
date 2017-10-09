@@ -11,11 +11,9 @@ import ol_layer_Vector from 'ol/layer/Vector';
 import ol_layer_Tile from 'ol/layer/Tile';
 import ol_style_Style from 'ol/style/style';
 import ol_style_Icon from 'ol/style/icon';
-import ol_style_Text from 'ol/style/text';
-import ol_style_Fill from 'ol/style/fill';
-import ol_style_Stroke from 'ol/style/stroke';
-
+import ol_Overlay from 'ol/overlay';
 import _ from 'lodash';
+
 @Component({
   selector: 'map-pointer',
   templateUrl: './pointer.component.html',
@@ -23,9 +21,7 @@ import _ from 'lodash';
 })
 
 export class MapPointer implements OnInit {
-  constructor(public mapService: MapService) {
-
-  }
+  constructor(public mapService: MapService) {}
   statesJson: any;
   sourceData: any;
   regionData: any;
@@ -35,12 +31,7 @@ export class MapPointer implements OnInit {
       this.sourceData = data;
       this.mapService.getstateNames().subscribe(state => {
         this.statesJson = state;
-        this.mapService.getRegionsData().subscribe(regions => {
-          this.regionData = regions;
-          this.mergeData();
-        }, errr => {
-          console.log(errr);
-        })
+        this.mergeData();
       }, errr => {
         console.log(errr);
       })
@@ -50,48 +41,48 @@ export class MapPointer implements OnInit {
   }
 
   mergeData() {
+    let size = _.size(this.sourceData);
     _.forEach(this.sourceData, (value, key) => {
       _.forEach(this.statesJson, (v, k) => {
         if (key === v[0]) {
-          _.forEach(this.regionData.features, (a, b) => {
-            if (v[1] === a.properties.name) {
-              var axis = [];
-              if (a.geometry.coordinates[0][0].length > 2) {
-                axis = a.geometry.coordinates[0][0][a.geometry.coordinates[0].length - 1];
-              } else {
-                axis = a.geometry.coordinates[0][a.geometry.coordinates.length - 1];
-              }
-              var iconFeature = new ol_Feature({
-                geometry: new ol_geom_Point(ol_proj.fromLonLat([axis[0], axis[1]]))
-              });
-              var a = value.tpAccRat;
-              iconFeature.setStyle(new ol_style_Style({
-                image: new ol_style_Icon(/** @type {olx.style.IconOptions} */({
-                  color: '#8959A8',
-                  crossOrigin: 'anonymous',
-                  src: 'https://openlayers.org/en/v4.3.4/examples/data/dot.png' //https://openlayers.org/en/v3.12.1/examples/data/icon.png
-                })),
-                // text: new ol_style_Text({
-                //   font: '12px Calibri,sans-serif',
-                //   fill: new ol_style_Fill({ color: '#000' }),
-                //   stroke: new ol_style_Stroke({
-                //     color: '#fff', width: 2
-                //   }),
-                //   text: a.toString()
-                // })
-              }));
-
-              this.merge.push(iconFeature);
+          this.mapService.getCordinates(v[1]).subscribe(coordinates => {
+            var iconFeature = new ol_Feature({
+              geometry: new ol_geom_Point(ol_proj.fromLonLat([coordinates.results[0].geometry.location.lng, coordinates.results[0].geometry.location.lat])),
+              city: v[1],
+              value: value.tpAccRat
+            });
+            iconFeature.setStyle(new ol_style_Style({
+              image: new ol_style_Icon(/** @type {olx.style.IconOptions} */({
+                color: '#8959A8',
+                crossOrigin: 'anonymous',
+                src: 'https://openlayers.org/en/v4.3.4/examples/data/dot.png' //https://openlayers.org/en/v3.12.1/examples/data/icon.png
+              }))
+            }));
+            this.merge.push(iconFeature);
+            if (this.merge.length === size - 1) {
+              this.dispalyMap();
             }
-          });
+          }, errr => {
+            console.log(errr);
+          })
         }
       });
     });
 
+  }
 
 
-
-
+  dispalyMap() {
+    var container = document.getElementById('popup');
+    var content = document.getElementById('popup-content');
+    var closer = document.getElementById('popup-closer');
+    var overlay = new ol_Overlay(/** @type {olx.OverlayOptions} */({
+      element: container,
+      autoPan: true,
+      autoPanAnimation: {
+        duration: 250
+      }
+    }));
     var vectorSource = new ol_source_Vector({
       features: this.merge
     });
@@ -107,15 +98,31 @@ export class MapPointer implements OnInit {
         }), vectorLayer
       ],
       target: 'map-one',
-
+      overlays: [overlay],
+      controls: [],
       view: new ol_View({
-        center: ol_proj.transform([-95.68542201, 40], 'EPSG:4326', 'EPSG:3857'),
-        zoom: 4
+        center: ol_proj.transform([-90.68542201, 38], 'EPSG:4326', 'EPSG:3857'),
+        zoom: 4.5
       })
     });
-    
+
+    closer.onclick = function () {
+      overlay.setPosition(undefined);
+      closer.blur();
+      return false;
+    };
+    map.on('singleclick', function (evt) {
+      var coordinate = evt.coordinate;
+      var source = map.forEachFeatureAtPixel(evt.pixel, function (feature) {
+        return { city: feature.get('city'), value: feature.get('value') };
+      });
+      if (source.city) {
+        content.innerHTML = '<div><p>City : ' + source.city + '</p></div><div><p>TpAccRat : ' + source.value + '</p></div>';
+        overlay.setPosition(coordinate);
+      }
+    });
   }
 
-
-
 }
+
+
