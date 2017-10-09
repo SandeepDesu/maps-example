@@ -116,7 +116,7 @@ export class MapPointer implements OnInit {
       var source = map.forEachFeatureAtPixel(evt.pixel, function (feature) {
         return { city: feature.get('city'), value: feature.get('value') };
       });
-      if (source.city) {
+      if (source && source.city) {
         content.innerHTML = '<div><p>City : ' + source.city + '</p></div><div><p>TpAccRat : ' + source.value + '</p></div>';
         overlay.setPosition(coordinate);
       }
